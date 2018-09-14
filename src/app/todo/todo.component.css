@@ -1,0 +1,10 @@
+.form-control {
+    height: 50px;
+}
+.hover-cursor {
+    cursor: pointer;
+}
+.far, .fas {
+    font-size: 1em !important;
+    padding-right: 10px;
+}
